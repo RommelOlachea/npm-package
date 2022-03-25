@@ -15,7 +15,7 @@
   "author": "Rommel Olachea <msc.rommel.olachea@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "bin/global.js"
+    "random-msg-rommel": "bin/global.js"
   },
   "preferGlobal": true,
   "repository": {
