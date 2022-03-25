@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/RommelOlachea/npm-package/issues"
   },
-  "homepage": "https://github.com/RommelOlachea/npm-package#readme"
+  "homepage": "https://github.com/RommelOlachea/npm-package#readme",
+  "dependencies": {
+    "random-messages-rommel": "^1.0.1",
+    "random-msg": "^1.0.0"
+  }
 }
